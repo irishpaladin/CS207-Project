@@ -1,2 +1,2 @@
 # CS207-Project
-Repository with cool and geeky project
+Repository of a cool and geeky project
