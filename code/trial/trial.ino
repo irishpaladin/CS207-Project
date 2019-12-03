@@ -33,7 +33,7 @@ int data = 2;
 int clock = 3;
 int latch = 4;
 
-int anode2=10;
+int anode2 = 10;
 int anode1 = 9;
 
 int anodepins[]={8,9,10,11};
