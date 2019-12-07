@@ -54,7 +54,7 @@ You should find a clock that will be suitable for the LED cube. If you are not f
 4. **Lastly, close up the lids!**
 
 You now have a cool looking LED cube!
-Check out my building process [here](https://youtu.be/bNUBpIrS2zI) 
+Check out my building process [here](https://youtu.be/bNUBpIrS2zI) .
 
 ## Usage
 How the device work is pretty straight forward!
