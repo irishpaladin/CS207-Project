@@ -65,4 +65,4 @@ How the device work is pretty straight forward!
  4. Repeat and have fun!
 
 ## Credits
-Tapendra Mandal with his [LED cube project](https://www.youtube.com/watch?v=2BlVUKW5hL0&t=27s) 
+- Project is based on Tapendra Mandal's [LED cube project](https://www.youtube.com/watch?v=2BlVUKW5hL0&t=27s) 
